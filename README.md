@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm a passionate learner excited about developing my programming skills.<br>I'm currently working on CS50x from Harvard.<br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Michael Schmidek) 
 
